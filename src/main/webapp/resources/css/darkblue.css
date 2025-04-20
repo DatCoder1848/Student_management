@@ -1,0 +1,38 @@
+/* darkblue.css */
+.bg-primary {
+    background-color: #003087 !important; /* Màu xanh đậm cho header của bảng */
+}
+
+.text-white {
+    color: #fff !important;
+}
+
+.btn-primary {
+    background-color: #003087;
+    border-color: #003087;
+}
+
+.btn-primary:hover {
+    background-color: #002060;
+    border-color: #002060;
+}
+
+.btn-warning {
+    background-color: #f0ad4e;
+    border-color: #f0ad4e;
+}
+
+.btn-warning:hover {
+    background-color: #ec971f;
+    border-color: #ec971f;
+}
+
+.btn-danger {
+    background-color: #d9534f;
+    border-color: #d9534f;
+}
+
+.btn-danger:hover {
+    background-color: #c9302c;
+    border-color: #c9302c;
+}

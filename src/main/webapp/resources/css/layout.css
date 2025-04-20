@@ -1,0 +1,33 @@
+/* layout.css */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f6f9;
+}
+
+.g-12, .col-xs-12, .col-sm-12 {
+    width: 100%;
+}
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.row > [class*="col-"] {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.table {
+    margin-top: 15px;
+}
+
+.table-bordered th,
+.table-bordered td {
+    border: 1px solid #ddd;
+}
+
+.table-bordered thead th {
+    background-color: #003087;
+    color: #fff;
+}

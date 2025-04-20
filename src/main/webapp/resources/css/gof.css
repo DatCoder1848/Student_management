@@ -1,0 +1,40 @@
+/* gof.css */
+.portlet {
+    border: 1px solid #e7ecf1;
+    padding: 15px;
+    background-color: #fff;
+    border-radius: 4px;
+}
+
+.portlet.light {
+    background-color: #f9f9f9;
+}
+
+.portlet.bordered {
+    border: 1px solid #e7ecf1;
+}
+
+.title-icons {
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.caption-subject {
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.font-dark {
+    color: #333;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.form-group label {
+    font-weight: bold;
+    color: #333;
+}
